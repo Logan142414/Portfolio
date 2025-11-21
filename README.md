@@ -30,6 +30,7 @@ Data Analytics and Applied Mathematics, B.S
 
 - Mathematical Research: Braid groups, Permutations, Abstract Algebra
 
+---
 
 ## Consultant / Internship Work
 
@@ -71,6 +72,8 @@ Key Tasks:
 - Budget Optimization: Assist with the center’s budget by identifying cost-saving opportunities and reallocating resources based on spending patterns. Track expenses, identify discrepancies, and ensure financial accuracy.
 
 Tools Used: R (dplyr, ggplot2, tidyverse), Excel , Qualtrics, Canva
+
+---
 
 ## Personal Projects
 
@@ -144,6 +147,8 @@ Key Tasks:
 - Developed an interactive Python interface allowing users to input and rate movies, triggering real-time recommendations
 
 Tools Used: Python (Pandas, NumPy, Scikit-learn), Collaborative Filtering Algorithms, Statistical Similarity Metric (Pearson Correlation), Data Preprocessing & Merging Pipelines
+
+---
 
 ## Class Projects / Research Work
 

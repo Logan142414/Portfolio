@@ -39,6 +39,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> R (dplyr, ggplot2, tidyverse), Tableau</p>
 
+<p><strong>Links:</strong> <a href="https://docs.google.com/presentation/d/1IJbdtBEjgQpFAo5b11zSSLcwqPxEkQS6cxoE3BVcX0g/edit?slide=id.p#slide=id.p">View Slideshow</a></p>
+
 <hr>
 
 <h3>Housed Working and Healthy (HWH)</h3>
@@ -55,6 +57,10 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> Python, Machine Learning (Linear/Logistic Regression, Random Forest, XGBoost, Deep Learning), Tableau, R (ggplot2), Model Deployment: Streamlit</p>
 
+
+<p><strong>Links:</strong> <a href="https://hwhelonscore.streamlit.app/">View Live App</a> | <a href="https://github.com/Logan142414/HWH_App">View Full Project on GitHub</a></p>
+
+
 <hr>
 
 <h3>Center For Design Thinking</h3>
@@ -70,6 +76,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 </ul>
 
 <p><strong>Tools Used:</strong> R (dplyr, ggplot2, tidyverse), Excel, Qualtrics, Canva</p>
+
 
 </details>
 
@@ -93,6 +100,9 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> Python (BeautifulSoup, Requests, Pandas), Streamlit, Generative AI, LangChain, Value Detection Logic</p>
 
+<p><strong>Links:</strong> <a href="https://pokemoncards-exploration.streamlit.app/">View Live App</a> | <a href="https://github.com/Logan142414/PokemonCardsApp">View Full Project on GitHub</a></p>
+
+
 <hr>
 
 <h3>March Madness Machine Learning</h3>
@@ -111,6 +121,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> Python (numpy, sklearn, pandas), Machine Learning, Data Cleaning/Transformation</p>
 
+<p><strong>Links:</strong> <a href="https://github.com/Logan142414/MarchMadness2025Model">View Full Project on GitHub</a> | <a href="https://medium.com/@logan.laszewski14/modeling-march-madness-a-machine-learning-approach-to-predicting-tournament-games-db8bc7b74a1d">Read Article on Medium</a></p>
+
 <hr>
 
 <h3>Bronny James Draft Criticism Analysis</h3>
@@ -127,6 +139,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 </ul>
 
 <p><strong>Tools Used:</strong> Python (numpy, sklearn, pandas, matplotlib), Machine Learning, Descriptive Analytics, PCA, KNN</p>
+
+<p><strong>Links:</strong> <a href="https://github.com/Logan142414/Bronny-James-Jr.-Data-Analysis">View Full Project on GitHub</a> | <a href="https://medium.com/@logan.laszewski14/the-debate-around-bronny-james-jr-fair-criticism-or-unreasonable-expectations-34e5ef205d14">Read Article on Medium</a></p>
 
 <hr>
 
@@ -145,6 +159,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 </ul>
 
 <p><strong>Tools Used:</strong> Python (Pandas, NumPy, Scikit-learn), Collaborative Filtering Algorithms, Statistical Similarity Metric (Pearson Correlation), Data Preprocessing & Merging Pipelines</p>
+
+<p><strong>Links:</strong> <a href="https://github.com/Logan142414/Movie-Recommender">View Full Project on GitHub</a> | <a href="https://colab.research.google.com/drive/11S9RZuFk6-fNDTCaQKxn86BHWssuoSt5?usp=sharing">View on Google Colab</a></p>
 
 </details>
 

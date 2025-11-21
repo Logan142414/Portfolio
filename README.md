@@ -39,7 +39,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> R (dplyr, ggplot2, tidyverse), Tableau</p>
 
-<p><strong>Links:</strong> <a href="https://docs.google.com/presentation/d/1IJbdtBEjgQpFAo5b11zSSLcwqPxEkQS6cxoE3BVcX0g/edit?slide=id.p#slide=id.p">View Slideshow</a></p>
+<p><strong>Links:</strong> <a href="https://docs.google.com/presentation/d/1IJbdtBEjgQpFAo5b11zSSLcwqPxEkQS6cxoE3BVcX0g/edit?slide=id.p#slide=id.p">View a Mock Slideshow Layout Of The Final Deliverable</a></p>
 
 <hr>
 
@@ -77,6 +77,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> R (dplyr, ggplot2, tidyverse), Excel, Qualtrics, Canva</p>
 
+<p><strong>Links:</strong> <a href="https://drive.google.com/file/d/1G-DSTfhIE9kjP4MhMrjY_uB4ADHPK_zW/view">View A Workshop Report</a></p>
 
 </details>
 
@@ -100,7 +101,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> Python (BeautifulSoup, Requests, Pandas), Streamlit, Generative AI, LangChain, Value Detection Logic</p>
 
-<p><strong>Links:</strong> <a href="https://pokemoncards-exploration.streamlit.app/">View Live App</a> | <a href="https://github.com/Logan142414/PokemonCardsApp">View Full Project on GitHub</a></p>
+<p><strong>Links:</strong> <a href="https://pokemoncards-exploration.streamlit.app/">View Live App</a> | <a href="https://github.com/Logan142414/PokemonCardsApp">View Project on GitHub</a> | <a href="https://medium.com/@logan.laszewski14/learning-web-scraping-by-tracking-pok%C3%A9mon-card-prices-30d97a8f5eeb">Medium Article (Part 1: Learning Web Scraping)</a> | <a href="https://medium.com/@logan.laszewski14/pok%C3%A9mon-price-tracker-part-2-historical-tracking-cloud-storage-and-interactive-analysis-af61567ee335">Medium Article (Part 2: Historical Tracking & Analysis)</a></p>
 
 
 <hr>
@@ -160,7 +161,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> Python (Pandas, NumPy, Scikit-learn), Collaborative Filtering Algorithms, Statistical Similarity Metric (Pearson Correlation), Data Preprocessing & Merging Pipelines</p>
 
-<p><strong>Links:</strong> <a href="https://github.com/Logan142414/Movie-Recommender">View Full Project on GitHub</a> | <a href="https://colab.research.google.com/drive/11S9RZuFk6-fNDTCaQKxn86BHWssuoSt5?usp=sharing">View on Google Colab</a></p>
+<p><strong>Links:</strong> <a href="https://github.com/Logan142414/Movie-Recommender">View Full Project on GitHub</a> | <a href="https://colab.research.google.com/drive/11S9RZuFk6-fNDTCaQKxn86BHWssuoSt5?usp=sharing">View Interactive Movie Recommender Script In Google Colab</a></p>
 
 </details>
 

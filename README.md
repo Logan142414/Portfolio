@@ -1,4 +1,4 @@
-# Logan Laszewski
+# Data Analytics / Science Portfolio
 
 ### Connect
 - [Email](mailto:logan.laszewski@comcast.net)

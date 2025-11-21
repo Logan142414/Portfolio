@@ -35,9 +35,11 @@ Data Analytics and Applied Mathematics, B.S
 <summary><strong>Consultant / Internship Work</strong></summary>
 
 ### Labcorp
+
 As part of my Statistics Practicum during my Senior year, I collaborated with a team to optimize Labcorp's cytology screening process. Our objective was to develop a productivity dashboard aimed at reducing the turnaround time for cytology results. Through spending the semester cleaning data, doing exploratory analysis, and improving data collection, we were not only able to make a productivity dashboard but also put Labcorp in the position to reach its final goal of making an optimization model. The changes implemented using our dashboard will improve specimen turnaround time to return the quickest results to its customers, leading to an increase in customer satisfaction and revenue because of new efficiencies. This dashboard will continuously be built upon and used for daily business. 
 
 Key Tasks:
+
 - Clean and do initial analysis on the existing data, creating a subset suitable for the productivity dashboard
 
 - Develop the productivity dashboard and continuously refine it until it is user-friendly and includes all valuable metrics
@@ -52,6 +54,7 @@ Tools Used: R (dplyr, ggplot2, tidyverse), Tableau
 As part of my work with the Center for Organizational Analytics at Elon University, I partnered with the Housed, Working, and Healthy (HWH) program in Colorado, which helps individuals secure long-term employment. Our project focused on improving data collection, identifying factors linked to participant success, and developing predictive machine-learning models to enhance applicant selection. By analyzing key success indicators, such as passing the Preview Period and Graduating, we provided insights to inform decisions on who should be admitted to the program and streamline the decision-making process. The final deliverable consisted of an in-person presentation and an application that can be used for deploying the models we created.
 
 Key tasks:
+
 - Data cleaning and making subsets for the data needed for statistical analysis
 
 - Making multiple models to predict graduation (yes/no) and future employment (yes/no)
@@ -65,6 +68,7 @@ Tools Used: Python, Machine Learning (Linear/Logistic Regression, Random Forest,
 From the Summer of 2024 to the spring of 2025, I worked as a Data Analytics Intern at the Center for Design Thinking at Elon University. My role involved analyzing workshops hosted by the center, which primarily serve Elon classes by introducing design thinking concepts and their applications in personal decision-making. I also used Qualtrics to analyze participant feedback and assess workshop effectiveness. In addition to these responsibilities, I conducted ad hoc analyses throughout the week and assist with budgeting for the center.
 
 Key Tasks:
+
 - Report Writing & Data Visualization: Developed two key reports: one analyzing the Center’s workshops over the past four years and another evaluating the effectiveness of the AI workshop during its first month. Utilized R for data visualization and extracted insights from Excel and Qualtrics.
 
 - Workshop Feedback Analysis: Use Qualtrics to provide structured feedback to workshop requestors and facilitators, helping them understand what participants liked and disliked and where improvements can be made.
@@ -85,6 +89,7 @@ This project originated from my interest in the Pokémon card market and the sca
 The dataset can now be refreshed daily, capturing new price data automatically, and two visualizations that update live with the filters, enabling ongoing market analysis. 
 
 Key Tasks:
+
 - Design and implement a Python-based web scraper using BeautifulSoup and Requests
 
 - Navigate across set pages to extract card names, condition-based prices, and set identifiers
@@ -102,6 +107,7 @@ Using historical tournament results and team-level stats from Kaggle, I built a 
 To do this, I developed an XGBoost classification model, fine-tuned hyperparameters, and used feature importance metrics to better understand which variables (e.g., offensive efficiency, turnover rate, seed differential) most influenced outcomes. I also used the H2O package to explore other models that could fit this problem.
 
 Key Tasks:
+
 - Collected and transformed datasets from Kaggle, performing feature engineering to prepare for modeling
 
 - Developed an XGBoost model, tuned hyperparameters, and evaluated feature importance
@@ -121,6 +127,7 @@ To do this, I built a retrospective model that estimates where players should ha
 Alongside this redraft analysis, I examined the historical performance and career longevity of players drafted in the final 10 picks to provide context for Bronny’s selection. I used a variety of analytical techniques, including descriptive statistics, principal component analysis (PCA), and k-nearest neighbors (KNN), to explore how Bronny compares to similar players and whether meaningful clusters exist between early and late picks.​​​​​​​
 
 Key Tasks:
+
 - Evaluated historical NBA draft trends to understand the relationship between draft position and long-term player outcomes
 
 - Built a Random Forest Regressor model to predict draft position from rookie-season stats
@@ -137,6 +144,7 @@ I built a movie recommendation system that lets users input movies they’ve see
 The project showcases applied data science and algorithmic design, focusing on decisions that improve accuracy and interpretability—such as setting overlap thresholds to ensure meaningful correlations and applying similarity-based weighting to generate balanced predictions. It demonstrates how collaborative filtering and statistical analysis can be combined to deliver personalized recommendations without relying on pre-trained models.
 
 Key Tasks:
+
 - Merged datasets containing users, movies, and ratings into a unified structure
 
 - Built a filtering system that calculates user similarity using the Pearson correlation coefficient
@@ -159,6 +167,7 @@ This project tackles a critical issue in U.S. higher education: student loan def
 Using program-level data from the U.S. Department of Education’s Office of Federal Student Aid, we built classification models to predict whether borrowers completing specific programs were likely to default. We applied regularized logistic regression and random forest models, prioritizing interpretability so stakeholders could identify which features (e.g., degree type, field of study, public/private control, region, etc) are most strongly tied to default risk. The logistic model offered p-values and coefficient directionality, while random forest highlighted feature importance rankings.
 
 Key Tasks:
+
 - Cleaned and subsetted over 220,000 records down to ~10,000 viable observations
   
 - Built and compared logistic regression (Lasso/Ridge) and random forest models
@@ -175,6 +184,7 @@ Tools Used: Python (pandas, sklearn, matplotlib)
 This R Shiny app provides an interactive platform for exploring the Central Limit Theorem (CLT) across various distributions, including Normal, T, F, and Chi-Squared. Users can customize the parameters of each distribution, such as mean, standard deviation, and degrees of freedom, while also personalizing visualizations by adjusting histogram colors to suit their preferences. Through this project, I sharpened my statistical knowledge and R programming skills while creating an educational tool designed to enhance the users' understanding of the CLT. The app serves as a resource for learners and educators, offering an engaging way to visualize and interact with foundational statistical concepts.
 
 Key Tasks:
+
 - Multi-Tab Layout: Include a tab for each distribution type. Along with a sidebar for input adjustments.
 
 - Interactive Visualizations: Design so users can visualize the probability density function and the distribution of sample means as they change inputs, illustrating the effects of the CLT.
@@ -188,6 +198,7 @@ Tools Used: Python (R, shinyapp)
 In this study, my group analyzed the quality of three water sources on Elon University's campus: Brita-filtered water, Dasani bottled water, and Alamance fountain water. Utilizing a randomized block factorial design (RBF[2]), we investigated how temperature (hot, room temperature, and cold) affected total dissolved solids (TDS) measured in parts per million (ppm). Our experiment consisted of 18 observations, with two samples for each combination of water source and temperature, allowing us to explore potential interactions between these factors. The results indicated significant differences in TDS levels among the water types, with all samples deemed safe for drinking according to EPA standards. Additionally, our analysis revealed an interaction effect between water source and temperature, suggesting that both factors play a crucial role in determining water quality.
 
 Key tasks:
+
 - Evaluate Drinking Safety: Assess whether there is significant evidence indicating differences in safety among various water sources.
 
 - Data Collection & Design: Collect data and select the most appropriate statistical design to support our study objectives.

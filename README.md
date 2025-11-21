@@ -32,7 +32,7 @@ Data Analytics and Applied Mathematics, B.S
 
 ---
 <details>
-<summary><strong>Consultant / Internship Work</strong></summary>
+<summary><strong> ## Consultant / Internship Work </strong></summary>
 
 ### Labcorp
 
@@ -79,8 +79,8 @@ Tools Used: R (dplyr, ggplot2, tidyverse), Excel , Qualtrics, Canva
 
 </details>
 ---
-
-## Personal Projects
+<details>
+<summary><strong> ## Personal Projects </strong></summary>
 
 ### Pokemon Web Scraping 
 
@@ -157,9 +157,11 @@ Key Tasks:
 
 Tools Used: Python (Pandas, NumPy, Scikit-learn), Collaborative Filtering Algorithms, Statistical Similarity Metric (Pearson Correlation), Data Preprocessing & Merging Pipelines
 
+</details>
 ---
+<details>
 
-## Class Projects / Research Work
+<summary><strong> ## Class Projects / Research Work </strong></summary>
 
 ### Student Loan Data Mining 
 
@@ -236,3 +238,5 @@ greater variability, highlighting the importance of controlled play over raw pow
 This research project explores algebraic geometry through the implementation of algorithms in Python, with a focus on affine varieties, Gröbner bases, and elimination theory, inspired by the textbook Ideals, Varieties, and Algorithms by Cox, Little, and O’Shea. Using Jupyter Notebook, I developed algorithms that find the greatest common divisor (GCD) of polynomials and polynomial division. What started as a tool designed for two inputs evolved into one capable of handling infinitely many inputs. The project will also lead to an interactive Python tutorial in Spring 2025 that simplifies and helps users understand the concepts. Through weekly readings, problem-solving, and coding exercises, I deepened my understanding of Python and Abstract Algebra. 
 
 Tools Used: Python, Abstract Algebra, SageMath, Jupyter Notebook
+
+</details>

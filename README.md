@@ -1,9 +1,7 @@
 # Data Analytics / Science Portfolio
 
 ### Connect
-- [Email](mailto:logan.laszewski@comcast.net)
-- [LinkedIn](https://www.linkedin.com/in/logan-laszewski/)
-- [Medium](https://medium.com/@logan.laszewski14)
+- [Email](mailto:logan.laszewski@comcast.net)  - [LinkedIn](https://www.linkedin.com/in/logan-laszewski/) - [Medium](https://medium.com/@logan.laszewski14)
 
 ### Introduction
 

@@ -13,25 +13,18 @@ What sets me apart is my ability to approach challenges from both analytical and
 
 This blend of technical ability and hands-on experience fuels my drive to keep learning and growing in the field of data analytics and data science.
 
-### Education
-Data Analytics and Applied Mathematics, B.S
-
 ### Technical Proficiency
 
-- Programming Languages: R, Python, SAS, SQL
-
-- Data Visualization & Analytics: Tableau, ggplot2, matplotlib, Excel, PowerBI
-
-- Statistical Techniques: PCA, Clustering, Regression Analysis, Gradient Descent, ANOVA
-
-- Modeling: Random Forest, XGBoost, Neural Networks, Deep Learning, Hyperparameter Tuning, Model Evaluation (AUC, Precision/Recall, F1-Score, Cross-Validation)
-
-- AI & Other Tools: Prompt Engineering, Tool Exploration (Claude, ChatGPT, Gemini, NotebookLM, Replit, etc), Mathematics, LaTeX, Salesforce, HubSpot
-
-- Mathematical Research: Braid groups, Permutations, Abstract Algebra
+- **Programming Languages:** R, Python, SAS, SQL
+- **Data Visualization & Analytics:** Tableau, ggplot2, matplotlib, Excel, PowerBI
+- **Statistical Techniques:** PCA, Clustering, Regression Analysis, Gradient Descent, ANOVA
+- **Modeling:** Random Forest, XGBoost, Neural Networks, Deep Learning, Hyperparameter Tuning, Model Evaluation (AUC, Precision/Recall, F1-Score, Cross-Validation)
+- **AI & Other Tools:** Prompt Engineering, Tool Exploration (Claude, ChatGPT, Gemini, NotebookLM, Replit, etc), Mathematics, LaTeX, Salesforce, HubSpot
+- **Mathematical Research:** Braid groups, Permutations, Abstract Algebra
 
 ---
 <details>
+  
 <summary><strong> ## Consultant / Internship Work </strong></summary>
 
 ### Labcorp
@@ -78,8 +71,10 @@ Key Tasks:
 Tools Used: R (dplyr, ggplot2, tidyverse), Excel , Qualtrics, Canva
 
 </details>
+
 ---
 <details>
+  
 <summary><strong> ## Personal Projects </strong></summary>
 
 ### Pokemon Web Scraping 
@@ -158,7 +153,9 @@ Key Tasks:
 Tools Used: Python (Pandas, NumPy, Scikit-learn), Collaborative Filtering Algorithms, Statistical Similarity Metric (Pearson Correlation), Data Preprocessing & Merging Pipelines
 
 </details>
+
 ---
+
 <details>
 
 <summary><strong> ## Class Projects / Research Work </strong></summary>

@@ -19,10 +19,15 @@ Data Analytics and Applied Mathematics, B.S
 ### Technical Proficiency
 
 •Programming Languages: R, Python, SAS, SQL
+
 •Data Visualization & Analytics: Tableau, ggplot2, matplotlib, Excel, PowerBI
-•Statistical Techniques: PCA, Clustering, Regression Analysis, Gradient Descent, ANOVA, 
+
+•Statistical Techniques: PCA, Clustering, Regression Analysis, Gradient Descent, ANOVA
+
 •Modeling: Random Forest, XGBoost, Neural Networks, Deep Learning, Hyperparameter Tuning, Model Evaluation (AUC, Precision/Recall, F1-Score, Cross-Validation)
+
 •AI & Other Tools: Prompt Engineering, Tool Exploration (Claude, ChatGPT, Gemini, NotebookLM, Replit, etc), Mathematics, LaTeX, Salesforce, HubSpot
+
 •Mathematical Research: Braid groups, Permutations, Abstract Algebra
 
 
@@ -33,9 +38,13 @@ As part of my Statistics Practicum during my Senior year, I collaborated with a 
 
 Key Tasks:
 •Clean and do initial analysis on the existing data, creating a subset suitable for the productivity dashboard
+
 •Develop the productivity dashboard and continuously refine it until it is user-friendly and includes all valuable metrics
+
 •Compile a report and final presentation to share with the Labcorp Analytics team.
+
 Tools Used: R (dplyr, ggplot2, tidyverse), Tableau
+
 
 ### Housed Working and Healthy (HWH)
 
@@ -43,8 +52,11 @@ As part of my work with the Center for Organizational Analytics at Elon Universi
 
 Key tasks:
 •Data cleaning and making subsets for the data needed for statistical analysis
+
 •Making multiple models to predict graduation (yes/no) and future employment (yes/no)
+
 •Deployment of Model: Make a Streamlit application where predictors can be entered and gives the probability outcome 
+
 Tools Used: Python, Machine Learning (Linear/Logistic Regression, Random Forest, XGBoost, Deep Learning), Tableau, R (ggplot2), Model Deployment: Streamlit
 
 ### Center For Design Thinking
@@ -53,8 +65,11 @@ From the Summer of 2024 to the spring of 2025, I worked as a Data Analytics Inte
 
 Key Tasks:
 • Report Writing & Data Visualization: Developed two key reports: one analyzing the Center’s workshops over the past four years and another evaluating the effectiveness of the AI workshop during its first month. Utilized R for data visualization and extracted insights from Excel and Qualtrics.
+
 • Workshop Feedback Analysis: Use Qualtrics to provide structured feedback to workshop requestors and facilitators, helping them understand what participants liked and disliked and where improvements can be made.
+
 • Budget Optimization: Assist with the center’s budget by identifying cost-saving opportunities and reallocating resources based on spending patterns. Track expenses, identify discrepancies, and ensure financial accuracy.
+
 Tools Used: R (dplyr, ggplot2, tidyverse), Excel , Qualtrics, Canva
 
 ## Personal Projects
@@ -67,9 +82,13 @@ The dataset can now be refreshed daily, capturing new price data automatically, 
 
 Key Tasks:
 • Design and implement a Python-based web scraper using BeautifulSoup and Requests
+
 • Navigate across set pages to extract card names, condition-based prices, and set identifiers
+
 • Engineer new features, such as price gaps and trend tracking, to identify undervalued or high-growth cards
+
 • Develop an advanced Streamlit app with dynamic filtering, export-to-CSV functionality with daily automated updates, and an integrated GenAI chatbot for interactive data exploration
+
 Tools Used: Python (BeautifulSoup, Requests, Pandas), Streamlit, Generative AI, LangChain, Value Detection Logic
 
 ### March Madness Machine Learning 
@@ -80,10 +99,15 @@ To do this, I developed an XGBoost classification model, fine-tuned hyperparamet
 
 Key Tasks:
 •Collected and transformed datasets from Kaggle, performing feature engineering to prepare for modeling
+
 •Developed an XGBoost model, tuned hyperparameters, and evaluated feature importance
+
 •Used the H2O library to explore alternative models and compare performance
+
 •Documented the project with a GitHub diary, README, Python scripts, and data sets
+
 •Wrote an article explaining the process, key takeaways, and potential next steps
+
 Tools Used: Python(numpy, sklearn, pandas), Machine Learning, Data Cleaning/Transformation
 
 ### Bronny James Draft Criticism Analysis
@@ -91,23 +115,34 @@ Tools Used: Python(numpy, sklearn, pandas), Machine Learning, Data Cleaning/Tran
 I conducted an in-depth analysis to examine how a player’s draft position influences their career trajectory in the NBA, with a particular focus on Bronny James Jr. and his selection as the 55th overall pick in the 2024 NBA Draft. Using NBA draft and player performance data from Kaggle, I set out to determine whether Bronny’s draft slot was justified based purely on his rookie-season production, independent of name recognition or external narrative.
 To do this, I built a retrospective model that estimates where players should have been drafted based on rookie-year stats alone. Rather than predicting future outcomes, this approach re-evaluates past draft results to see how well a player's actual performance aligns with their original draft position.
 Alongside this redraft analysis, I examined the historical performance and career longevity of players drafted in the final 10 picks to provide context for Bronny’s selection. I used a variety of analytical techniques, including descriptive statistics, principal component analysis (PCA), and k-nearest neighbors (KNN), to explore how Bronny compares to similar players and whether meaningful clusters exist between early and late picks.​​​​​​​
+
 Key Tasks:
 •Evaluated historical NBA draft trends to understand the relationship between draft position and long-term player outcomes
+
 •Built a Random Forest Regressor model to predict draft position from rookie-season stats
+
 •Used PCA and KNN to visualize draft clusters and find Bronny’s closest statistical comparisons
+
 •Wrote a data storytelling article to communicate key insights and challenge public perception
+
 Tools Used: Python(numpy, sklearn, pandas, matplotlib), Machine Learning, Descriptive Analytics, PCA, KNN
 
 ### Movie Recommendation System
 
 I built a movie recommendation system that lets users input movies they’ve seen and rate them, then uses the Pearson correlation coefficient to identify users with statistically similar tastes. To enable this, I merged datasets containing user IDs, movie titles, and ratings into a unified structure, then filtered for users with sufficient overlap in rated movies. The algorithm calculates similarity scores, identifies top neighbors, and utilizes these relationships to predict and rank unseen movies for recommendations.
 The project showcases applied data science and algorithmic design, focusing on decisions that improve accuracy and interpretability—such as setting overlap thresholds to ensure meaningful correlations and applying similarity-based weighting to generate balanced predictions. It demonstrates how collaborative filtering and statistical analysis can be combined to deliver personalized recommendations without relying on pre-trained models.
+
 Key Tasks:
 • Merged datasets containing users, movies, and ratings into a unified structure
+
 • Built a filtering system that calculates user similarity using the Pearson correlation coefficient
+
 • Implemented filtering to include only users who share ratings for a sufficient portion of the target’s movies
+
 • Computed similarity scores, identified top neighbors, and generated recommendations using weighted average logic
+
 • Developed an interactive Python interface allowing users to input and rate movies, triggering real-time recommendations
+
 Tools Used: Python (Pandas, NumPy, Scikit-learn), Collaborative Filtering Algorithms, Statistical Similarity Metric (Pearson Correlation), Data Preprocessing & Merging Pipelines
 
 ## Class Projects / Research Work
@@ -127,20 +162,29 @@ Tools Used: Python (pandas, sklearn, matplotlib)
 ### CLT Shiny App
 
 This R Shiny app provides an interactive platform for exploring the Central Limit Theorem (CLT) across various distributions, including Normal, T, F, and Chi-Squared. Users can customize the parameters of each distribution, such as mean, standard deviation, and degrees of freedom, while also personalizing visualizations by adjusting histogram colors to suit their preferences. Through this project, I sharpened my statistical knowledge and R programming skills while creating an educational tool designed to enhance the users' understanding of the CLT. The app serves as a resource for learners and educators, offering an engaging way to visualize and interact with foundational statistical concepts.
+
 Key Tasks:
 •Multi-Tab Layout: Include a tab for each distribution type. Along with a sidebar for input adjustments.
+
 •Interactive Visualizations: Design so users can visualize the probability density function and the distribution of sample means as they change inputs, illustrating the effects of the CLT.
+
 •Make an app to serve as a valuable educational tool, enabling users to gain a deeper understanding of the Central Limit Theorem and the behavior of different statistical distributions.
+
 Tools Used: Python (R, shinyapp)
 
 ### Testing Water Quality 
 
 In this study, my group analyzed the quality of three water sources on Elon University's campus: Brita-filtered water, Dasani bottled water, and Alamance fountain water. Utilizing a randomized block factorial design (RBF[2]), we investigated how temperature (hot, room temperature, and cold) affected total dissolved solids (TDS) measured in parts per million (ppm). Our experiment consisted of 18 observations, with two samples for each combination of water source and temperature, allowing us to explore potential interactions between these factors. The results indicated significant differences in TDS levels among the water types, with all samples deemed safe for drinking according to EPA standards. Additionally, our analysis revealed an interaction effect between water source and temperature, suggesting that both factors play a crucial role in determining water quality.
+
 Key tasks:
 •Evaluate Drinking Safety: Assess whether there is significant evidence indicating differences in safety among various water sources.
+
 •Data Collection & Design: Collect data and select the most appropriate statistical design to support our study objectives.
+
 •Data Analysis: Conduct analyses using SAS to derive insights and conclusions.
+
 •Report Writing: Compile a comprehensive report summarizing our findings and interpretations.
+
 Tools Used: SAS, Statistical Analysis
 
 ### Sports Analytics Projects: March Madness & PGA Analysis
@@ -168,4 +212,5 @@ greater variability, highlighting the importance of controlled play over raw pow
 ### Ideals, Varieties, and Algorithms Research
 
 This research project explores algebraic geometry through the implementation of algorithms in Python, with a focus on affine varieties, Gröbner bases, and elimination theory, inspired by the textbook Ideals, Varieties, and Algorithms by Cox, Little, and O’Shea. Using Jupyter Notebook, I developed algorithms that find the greatest common divisor (GCD) of polynomials and polynomial division. What started as a tool designed for two inputs evolved into one capable of handling infinitely many inputs. The project will also lead to an interactive Python tutorial in Spring 2025 that simplifies and helps users understand the concepts. Through weekly readings, problem-solving, and coding exercises, I deepened my understanding of Python and Abstract Algebra. 
+
 Tools Used: Python, Abstract Algebra, SageMath, Jupyter Notebook

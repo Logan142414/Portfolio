@@ -2,8 +2,4 @@ title: Logan Laszewski
 logo: /assets/img/professionalphoto_circle.png
 description: Data Analyst & Scientist | Analytics, ML, Problem Solving
 show_downloads: true
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: tedivm/jekyll-theme-portfolio
+theme: jekyll-theme-minimal

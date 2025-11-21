@@ -1,4 +1,4 @@
-# Data Analytics / Science Portfolio
+# Data Science Portfolio
 
 ### Connect
 [Email](mailto:logan.laszewski@comcast.net)  [LinkedIn](https://www.linkedin.com/in/logan-laszewski/) [Medium](https://medium.com/@logan.laszewski14)
@@ -23,7 +23,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 ---
 
 <details>
-<summary><h2>Consultant / Internship Work</h2></summary>
+<summary><h2>Consultant / Internship Projects</h2></summary>
 
 <h3>Labcorp</h3>
 
@@ -151,7 +151,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 ---
 
 <details>
-<summary><h2>Class Projects / Research Work</h2></summary>
+<summary><h2>Class / Research Projects</h2></summary>
 
 <h3>Student Loan Data Mining</h3>
 

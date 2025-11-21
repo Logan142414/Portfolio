@@ -31,8 +31,8 @@ Data Analytics and Applied Mathematics, B.S
 - Mathematical Research: Braid groups, Permutations, Abstract Algebra
 
 ---
-
-## Consultant / Internship Work
+<details>
+<summary><strong>Consultant / Internship Work</strong></summary>
 
 ### Labcorp
 As part of my Statistics Practicum during my Senior year, I collaborated with a team to optimize Labcorp's cytology screening process. Our objective was to develop a productivity dashboard aimed at reducing the turnaround time for cytology results. Through spending the semester cleaning data, doing exploratory analysis, and improving data collection, we were not only able to make a productivity dashboard but also put Labcorp in the position to reach its final goal of making an optimization model. The changes implemented using our dashboard will improve specimen turnaround time to return the quickest results to its customers, leading to an increase in customer satisfaction and revenue because of new efficiencies. This dashboard will continuously be built upon and used for daily business. 
@@ -73,6 +73,7 @@ Key Tasks:
 
 Tools Used: R (dplyr, ggplot2, tidyverse), Excel , Qualtrics, Canva
 
+</details>
 ---
 
 ## Personal Projects

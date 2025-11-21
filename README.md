@@ -23,7 +23,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 ---
 <details>
   
-<summary><strong> ## Consultant / Internship Work </strong></summary>
+<summary>## Consultant / Internship Work</summary>
 
 ### Labcorp
 
@@ -73,7 +73,7 @@ Tools Used: R (dplyr, ggplot2, tidyverse), Excel , Qualtrics, Canva
 ---
 <details>
   
-<summary><strong> ## Personal Projects </strong></summary>
+<summary>## Personal Projects</summary>
 
 ### Pokemon Web Scraping 
 
@@ -156,7 +156,7 @@ Tools Used: Python (Pandas, NumPy, Scikit-learn), Collaborative Filtering Algori
 
 <details>
 
-<summary><strong> ## Class Projects / Research Work </strong></summary>
+<summary>## Class Projects / Research Work</summary>
 
 ### Student Loan Data Mining 
 

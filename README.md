@@ -58,7 +58,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 <p><strong>Tools Used:</strong> Python, Machine Learning (Linear/Logistic Regression, Random Forest, XGBoost, Deep Learning), Tableau, R (ggplot2), Model Deployment: Streamlit</p>
 
 
-<p><strong>Links:</strong> <a href="https://hwhelonscore.streamlit.app/">View Live App</a> | <a href="https://github.com/Logan142414/HWH_App">View Full Project on GitHub</a></p>
+<p><strong>Links:</strong> <a href="https://hwhelonscore.streamlit.app/">View Streamlit App</a> | <a href="https://github.com/Logan142414/HWH_App">View Full Project on GitHub</a></p>
 
 
 <hr>
@@ -101,7 +101,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> Python (BeautifulSoup, Requests, Pandas), Streamlit, Generative AI, LangChain, Value Detection Logic</p>
 
-<p><strong>Links:</strong> <a href="https://pokemoncards-exploration.streamlit.app/">View Live App</a> | <a href="https://github.com/Logan142414/PokemonCardsApp">View Project on GitHub</a> | <a href="https://medium.com/@logan.laszewski14/learning-web-scraping-by-tracking-pok%C3%A9mon-card-prices-30d97a8f5eeb">Medium Article (Part 1: Learning Web Scraping)</a> | <a href="https://medium.com/@logan.laszewski14/pok%C3%A9mon-price-tracker-part-2-historical-tracking-cloud-storage-and-interactive-analysis-af61567ee335">Medium Article (Part 2: Historical Tracking & Analysis)</a></p>
+<p><strong>Links:</strong> <a href="https://pokemoncards-exploration.streamlit.app/">View Streamlit App</a> | <a href="https://github.com/Logan142414/PokemonCardsApp">View Project on GitHub</a> | <a href="https://medium.com/@logan.laszewski14/learning-web-scraping-by-tracking-pok%C3%A9mon-card-prices-30d97a8f5eeb">Medium Article (Part 1: Learning Web Scraping)</a> | <a href="https://medium.com/@logan.laszewski14/pok%C3%A9mon-price-tracker-part-2-historical-tracking-cloud-storage-and-interactive-analysis-af61567ee335">Medium Article (Part 2: Historical Tracking & Analysis)</a></p>
 
 
 <hr>
@@ -186,6 +186,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> Python (pandas, sklearn, matplotlib)</p>
 
+<p><strong>Links:</strong> <a href="https://github.com/Logan142414/Student-Loans-Data-Mining">View Code on GitHub</a></p>
+
 <hr>
 
 <h3>CLT Shiny App</h3>
@@ -201,6 +203,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 </ul>
 
 <p><strong>Tools Used:</strong> R (Shiny, ggplot2)</p>
+
+<p><strong>Links:</strong> <a href="https://logan1424.shinyapps.io/ShinyCLT/">View Shiny App</a> | <a href="https://drive.google.com/file/d/1OzdBxgLnp2iUYiA_pEr1l0P4Taud5Pzc/view">View Code</a></p>
 
 <hr>
 
@@ -219,6 +223,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> SAS, Statistical Analysis</p>
 
+html<p><strong>Links:</strong> <a href="https://docs.google.com/document/d/1rx9LXXtptpPbYdc0I9wx1K_QUTCQ6jeE/edit">View Report</a></p>
+
 <hr>
 
 <h3>Sports Analytics Projects: March Madness & PGA Analysis</h3>
@@ -229,6 +235,13 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>PGA Analysis: Driving Distance & Scoring</strong><br>This statistical analysis investigated the relationship between driving distance and adjusted scoring among the top 200 PGA players in 2023. Using gradient descent, Newton's interpolation and least squares regression, I discovered that while above average driving distance correlates with better scores, and it also introduces greater variability, highlighting the importance of controlled play over raw power.</p>
 
+<p><strong>Links:</strong></p>
+<ul>
+<li><strong>March Madness:</strong> <a href="https://drive.google.com/file/d/1dB2H021ko7NaOWxy9-ILupxFeWNx4pcg/view">Report</a> | <a href="https://colab.research.google.com/drive/1sT-deoNXtymfvFqG639AyKW-Fk01gPiW?usp=sharing">Code</a></li>
+<li><strong>PGA Analysis:</strong> <a href="https://drive.google.com/file/d/18DTCQ7ZN9h21epD6MKQicx-XYhRDa8Ik/view">Report</a> | <a href="https://colab.research.google.com/drive/1k3xuu8ZIEbymaOeU2vgAUbkhxMcZGrbB?usp=drive_link">Code</a></li>
+</ul>
+
+
 <hr>
 
 <h3>Ideals, Varieties, and Algorithms Research</h3>
@@ -236,5 +249,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 <p>This research project explores algebraic geometry through the implementation of algorithms in Python, with a focus on affine varieties, Gröbner bases, and elimination theory, inspired by the textbook Ideals, Varieties, and Algorithms by Cox, Little, and O'Shea. Using Jupyter Notebook, I developed algorithms that find the greatest common divisor (GCD) of polynomials and polynomial division. What started as a tool designed for two inputs evolved into one capable of handling infinitely many inputs. The project will also lead to an interactive Python tutorial in Spring 2025 that simplifies and helps users understand the concepts. Through weekly readings, problem-solving, and coding exercises, I deepened my understanding of Python and Abstract Algebra.</p>
 
 <p><strong>Tools Used:</strong> Python, Abstract Algebra, SageMath, Jupyter Notebook</p>
+
+<p><strong>Links:</strong> <a href="https://colab.research.google.com/drive/1CYCxXQyssyApzHnFzty6YOBPVIoOlzJd?usp=drive_link">Interactive Learning Script on Google Colab</a></p>
+
 
 </details>

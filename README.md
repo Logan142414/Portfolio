@@ -223,7 +223,7 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 
 <p><strong>Tools Used:</strong> SAS, Statistical Analysis</p>
 
-html<p><strong>Links:</strong> <a href="https://docs.google.com/document/d/1rx9LXXtptpPbYdc0I9wx1K_QUTCQ6jeE/edit">View Report</a></p>
+<p><strong>Links:</strong> <a href="https://docs.google.com/document/d/1rx9LXXtptpPbYdc0I9wx1K_QUTCQ6jeE/edit">View Report</a></p>
 
 <hr>
 
@@ -231,9 +231,9 @@ html<p><strong>Links:</strong> <a href="https://docs.google.com/document/d/1rx9L
 
 <p>Through two complementary projects in my Data Analytics coursework, I explored statistical modeling and machine learning applications in professional and collegiate sports.</p>
 
-<p><strong>March Madness: Tournament Prediction</strong><br>Using PCA and clustering techniques, I analyzed NCAA team statistics from the 2023 season to predict tournament outcomes. By comparing current teams against historical champions, my model successfully identified the top 2 ranked teams: Both of which advanced to the Elite 8. The project demonstrated how dimensionality reduction and unsupervised learning can uncover patterns in high dimensional sports data.</p>
+<p><strong>March Madness: Tournament Prediction</strong><br>Using PCA and clustering techniques, I analyzed NCAA team statistics from the 2023 season to predict tournament outcomes. By comparing current teams against historical champions, my model successfully identified the top 2 ranked teams, both of which advanced to the Elite 8. The project demonstrated how dimensionality reduction and unsupervised learning can uncover patterns in high dimensional sports data.</p>
 
-<p><strong>PGA Analysis: Driving Distance & Scoring</strong><br>This statistical analysis investigated the relationship between driving distance and adjusted scoring among the top 200 PGA players in 2023. Using gradient descent, Newton's interpolation and least squares regression, I discovered that while above average driving distance correlates with better scores, and it also introduces greater variability, highlighting the importance of controlled play over raw power.</p>
+<p><strong>PGA Analysis: Driving Distance & Scoring</strong><br>This statistical analysis investigated the relationship between driving distance and adjusted scoring among the top 200 PGA players in 2023. Using gradient descent, Newton's interpolation, and least squares regression, I discovered that while above average driving distance correlates with better scores, it also introduces greater variability, highlighting the importance of controlled play over raw power.</p>
 
 <p><strong>Links:</strong></p>
 <ul>

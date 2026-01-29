@@ -17,7 +17,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 - **Data Visualization & Analytics:** Tableau, ggplot2, matplotlib, Excel, PowerBI
 - **Statistical Techniques:** PCA, Clustering, Regression Analysis, Gradient Descent, ANOVA
 - **Modeling:** Random Forest, XGBoost, Neural Networks, Deep Learning, Hyperparameter Tuning, Model Evaluation (AUC, Precision/Recall, F1-Score, Cross-Validation)
-- **AI & Other Tools:** Prompt Engineering, Tool Exploration (Claude, ChatGPT, Gemini, NotebookLM, Replit, etc), Mathematics, LaTeX, Salesforce, HubSpot
+- **AI:** Prompt Engineering, Tool Exploration (Claude, ChatGPT, Gemini, NotebookLM, Replit, etc)
+- **Other Tools:** Airflow, VSCode, Docker, Postman, AWS (S3, EC2, RDS)
 - **Mathematical Research:** Braid groups, Permutations, Abstract Algebra
 
 ---

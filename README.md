@@ -28,7 +28,7 @@ What sets me apart is my ability to bridge software engineering and data science
 <h3>mLogica: Associate Software Developer | November 2025 - Present</h3>
 
 <p>At mLogica, a database migration company, I am working on building AI agent systems that introduce our migration capabilities to AWS customers. I architected and deployed a multi-agent system and MCP Server on Amazon Bedrock AgentCore, consisting of an orchestrator 
-and specialized sub-agents for migration estimation and service Q&A — accessible to AWS customers through the AWS Transform platform. I also built an LLM pipeline integrated into an internal web application to automate RFP analysis and accelerate sales evaluation.</p>
+and specialized sub-agents for migration estimation and service Q&A - accessible to AWS customers through the AWS Transform platform. I also built an LLM pipeline integrated into an internal web application to automate RFP analysis and accelerate sales evaluation.</p>
 
 
 </details>

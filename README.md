@@ -1,15 +1,13 @@
-# Data Science Portfolio
+# Software & Data Science Portfolio
 
 ### Connect
 [Email](mailto:logan.laszewski@comcast.net)  [LinkedIn](https://www.linkedin.com/in/logan-laszewski/) [Medium](https://medium.com/@logan.laszewski14)
 
 ### Introduction
 
-My name is Logan Laszewski, and I recently graduated from Elon University with a double major in Data Analytics and Applied Mathematics. I’m passionate about using data to uncover insights and solve real-world problems that drive meaningful decision-making.
+My name is Logan Laszewski, and I'm an Associate Software Developer at mLogica. I graduated from Elon University in 2025 with a double major in Data Analytics and Applied Mathematics.
 
-What sets me apart is my ability to approach challenges from both analytical and abstract perspectives, backed by a strong foundation in mathematics and statistics. Through coursework, internships, and a consulting project with Labcorp, I’ve developed key skills in data cleaning, visualization, and dashboard development. My work with the nonprofit HWH expanded my knowledge of machine learning, including building and deploying both linear and non linear models.
-
-This blend of technical ability and hands-on experience fuels my drive to keep learning and growing in the field of data analytics and data science.
+What sets me apart is my ability to bridge software engineering and data science. At mLogica, I build AI agent systems and MCP Servers on Amazon Bedrock AgentCore in partnership with AWS and have deployed LLM pipelines within internal applications - giving me experience at the cutting edge of AI development. This complements a strong foundation in analytics built through internships, a consulting project with Labcorp, and academic work in machine learning with the nonprofit HWH. Backed by a double major in Data Analytics and Applied Mathematics, I bring both technical depth and analytical thinking to every problem.
 
 ### Technical Proficiency
 
@@ -17,8 +15,8 @@ This blend of technical ability and hands-on experience fuels my drive to keep l
 - **Data Visualization & Analytics:** Tableau, ggplot2, matplotlib, Excel, PowerBI
 - **Statistical Techniques:** PCA, Clustering, Regression Analysis, Gradient Descent, ANOVA
 - **Modeling:** Random Forest, XGBoost, Neural Networks, Deep Learning, Hyperparameter Tuning, Model Evaluation (AUC, Precision/Recall, F1-Score, Cross-Validation)
-- **AI:** Prompt Engineering, Tool Exploration (Claude, ChatGPT, Gemini, NotebookLM, Replit, etc)
-- **Other Tools:** Airflow, VSCode, Docker, Postman, AWS (S3, EC2, RDS)
+- **AI & Agent Development:** LLMs, AI Agents, Multi-Agent Systems, MCP Servers, FastAPI, FastMCP, Prompt Engineering
+- **Cloud & Tools:** AWS (Bedrock, AgentCore, ECR, S3, EC2, IAM/OAuth), Docker, GitHub, VSCode, Postman
 - **Mathematical Research:** Braid groups, Permutations, Abstract Algebra
 
 ---

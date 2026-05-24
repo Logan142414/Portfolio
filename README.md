@@ -14,7 +14,8 @@ What sets me apart is my ability to bridge software engineering and data science
 - **Programming Languages:** R, Python, SAS, SQL
 - **Data Visualization & Analytics:** Tableau, ggplot2, matplotlib, Excel, PowerBI
 - **Statistical Techniques:** PCA, Clustering, Regression Analysis, Gradient Descent, ANOVA
-- **Modeling:** Random Forest, XGBoost, Neural Networks, Deep Learning, Hyperparameter Tuning, Model Evaluation (AUC, Precision/Recall, F1-Score, Cross-Validation)
+- **Modeling:** Random Forest, XGBoost, Neural Networks, Deep Learning, Hyperparameter Tuning, Model Evaluation (AUC, Precision/Recall, F1-
+- Score, Cross-Validation)
 - **AI & Agent Development:** LLMs, AI Agents, Multi-Agent Systems, MCP Servers, FastAPI, FastMCP, Prompt Engineering
 - **Cloud & Tools:** AWS (Bedrock, AgentCore, ECR, S3, EC2, IAM/OAuth), Docker, GitHub, VSCode, Postman
 - **Mathematical Research:** Braid groups, Permutations, Abstract Algebra
@@ -68,6 +69,8 @@ As a Sales Analytics Intern at Fidelity Investments in Covington, KY, I worked o
 <li>Managed HubSpot contact lists and built dashboards and email templates to support campaigns and track engagement</li>
 </ul>
 
+<p><strong>Tools Used: Salesforce, HubSpot, Excel, Microsoft Office</p>
+  
 <hr>
 
 <h3>Housed Working and Healthy (HWH): Intern | August 2024 - May 2025</h3>

@@ -69,7 +69,7 @@ As a Sales Analytics Intern at Fidelity Investments in Covington, KY, I worked o
 <li>Managed HubSpot contact lists and built dashboards and email templates to support campaigns and track engagement</li>
 </ul>
 
-<p><strong>Tools Used: Salesforce, HubSpot, Excel, Microsoft Office</p>
+<p><strong>Tools Used:</strong> Salesforce, HubSpot, Excel, Microsoft Office</p>
   
 <hr>
 

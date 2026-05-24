@@ -38,7 +38,7 @@ and specialized sub-agents for migration estimation and service Q&A — accessib
 <details>
 <summary><h2>Consultant / Internship Projects</h2></summary>
 
-<h3>Labcorp</h3>
+<h3>Labcorp: August 2024 - December 2024</h3>
 
 <p>As part of my Statistics Practicum during my Senior year, I collaborated with a team to optimize Labcorp's cytology screening process. Our objective was to develop a productivity dashboard aimed at reducing the turnaround time for cytology results. Through spending the semester cleaning data, doing exploratory analysis, and improving data collection, we were not only able to make a productivity dashboard but also put Labcorp in the position to reach its final goal of making an optimization model. The changes implemented using our dashboard will improve specimen turnaround time to return the quickest results to its customers, leading to an increase in customer satisfaction and revenue because of new efficiencies. This dashboard will continuously be built upon and used for daily business.</p>
 
@@ -56,7 +56,7 @@ and specialized sub-agents for migration estimation and service Q&A — accessib
 
 <hr>
 
-<h3>Housed Working and Healthy (HWH)</h3>
+<h3>Housed Working and Healthy (HWH): August 2024 - May 2025</h3>
 
 <p>As part of my work with the Center for Organizational Analytics at Elon University, I partnered with the Housed, Working, and Healthy (HWH) program in Colorado, which helps individuals secure long-term employment. Our project focused on improving data collection, identifying factors linked to participant success, and developing predictive machine-learning models to enhance applicant selection. By analyzing key success indicators, such as passing the Preview Period and Graduating, we provided insights to inform decisions on who should be admitted to the program and streamline the decision-making process. The final deliverable consisted of an in-person presentation and an application that can be used for deploying the models we created.</p>
 
@@ -76,7 +76,7 @@ and specialized sub-agents for migration estimation and service Q&A — accessib
 
 <hr>
 
-<h3>Center For Design Thinking</h3>
+<h3>Center For Design Thinking: August 2024 - May 2025</h3>
 
 <p>From the Summer of 2024 to the spring of 2025, I worked as a Data Analytics Intern at the Center for Design Thinking at Elon University. My role involved analyzing workshops hosted by the center, which primarily serve Elon classes by introducing design thinking concepts and their applications in personal decision-making. I also used Qualtrics to analyze participant feedback and assess workshop effectiveness. In addition to these responsibilities, I conducted ad hoc analyses throughout the week and assist with budgeting for the center.</p>
 
@@ -257,7 +257,7 @@ and specialized sub-agents for migration estimation and service Q&A — accessib
 
 <hr>
 
-<h3>Ideals, Varieties, and Algorithms Research</h3>
+<h3>Ideals, Varieties, and Algorithms Research: August 2024 - May 2025</h3>
 
 <p>This research project explores algebraic geometry through the implementation of algorithms in Python, with a focus on affine varieties, Gröbner bases, and elimination theory, inspired by the textbook Ideals, Varieties, and Algorithms by Cox, Little, and O'Shea. Using Jupyter Notebook, I developed algorithms that find the greatest common divisor (GCD) of polynomials and polynomial division. What started as a tool designed for two inputs evolved into one capable of handling infinitely many inputs. The project will also lead to an interactive Python tutorial in Spring 2025 that simplifies and helps users understand the concepts. Through weekly readings, problem-solving, and coding exercises, I deepened my understanding of Python and Abstract Algebra.</p>
 

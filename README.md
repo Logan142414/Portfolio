@@ -1,7 +1,7 @@
 # Software & Data Science Portfolio
 
 ### Connect
-[Email](mailto:logan.laszewski@comcast.net)  [LinkedIn](https://www.linkedin.com/in/logan-laszewski/) [Medium](https://medium.com/@logan.laszewski14) [Resume] (https://tinyurl.com/May2026Resume)
+[Email](mailto:logan.laszewski@comcast.net)  [LinkedIn](https://www.linkedin.com/in/logan-laszewski/) [Medium](https://medium.com/@logan.laszewski14) [Resume](https://tinyurl.com/May2026Resume)
 
 ### Introduction
 

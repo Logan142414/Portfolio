@@ -60,10 +60,13 @@ and specialized sub-agents for migration estimation and service Q&A — accessib
 
 As a Sales Analytics Intern at Fidelity Investments in Covington, KY, I worked on improving data quality and sales targeting within the CRM systems used by the sales team.
 
+<p><strong>Key Tasks:</strong></p>
+
+<ul>
 <li>Resolved 1,000+ duplicate and outdated records in Salesforce CRM, ensuring accurate client data and compliance</li>
 <li>Engineered a priority contact classification system (Tiers 1–4) for strategic decision-maker targeting</li>
 <li>Managed HubSpot contact lists and built dashboards and email templates to support campaigns and track engagement</li>
-
+</ul>
 
 <hr>
 

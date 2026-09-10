@@ -27,14 +27,34 @@ What sets me apart is my ability to bridge software engineering and data science
 
 <h3>mLogica: Associate Software Developer | November 2025 - Present</h3>
 
-<p>At mLogica, a database migration company, I am working on building AI agent systems that introduce our migration capabilities to AWS customers. I architected and deployed a multi-agent system and MCP Server on Amazon Bedrock AgentCore, consisting of an orchestrator 
-and specialized sub-agents for migration estimation and service Q&A - accessible to AWS customers through the AWS Transform platform. I also built an LLM pipeline integrated into an internal web application to automate RFP analysis and accelerate sales evaluation.</p>
+<p>At mLogica, a database migration company, I have worked on integrating our STAR*M database schema conversion tooling into AWS Transform, giving AWS customers a way to access our migration capabilities without downloading and running the software locally. I initially developed the MCP server and orchestrator/subagent architecture using AWS's provided SDKs, and helped transition the workflow toward API/tool execution, and AWS Job Plans that guide users through the migration process. Separately, I contributed AI functionality to an internal sales application that summarizes prospective client documents, generates structured outputs, and tracks estimated token usage and processing time before running summary. </p>
 
 
 </details>
 
 ---
 
+<h3>TooSoon</h3>
+
+<p>I am working with co-founder to develop TooSoon, a real estate application designed to identify residential properties that may be coming to market before they are publicly listed. I started by building a demo application with mock data to explore the product concept, user experience, and features before investing in the real data pipeline.</p>
+
+<p>I am now working on the transition toward real data, researching how information from public records and other sources can be collected and automated. The initial focus is on three counties in Arkansas - Benton, Washington, and Madison: with the goal of combining public records, APIs, web scraping, and other data sources to build a reliable pipeline.</p>
+
+<p><strong>Key Tasks:</strong></p>
+
+<ul> 
+<li>Develop a full stack demo application using FastAPI, React, PostgreSQL/PostGIS, and MapLibre</li> 
+<li>Design the initial product workflow and user experience using mock property data</li> 
+<li>Research county level public records and identify potential sources for real property and life event data</li> 
+<li>Evaluate APIs, web scraping, and third-party data sources for building an automated data pipeline</li> 
+<li>Develop data ingestion, matching, and confidence scoring logic to connect records with potential properties</li> 
+<li>Build geospatial search functionality for exploring properties on an interactive map</li> 
+<li>Use Claude and AI assisted development tools throughout the application development process</li> 
+</ul>
+
+<p><strong>Tools Used:</strong> Python, FastAPI, React, PostgreSQL, PostGIS, SQLAlchemy, MapLibre, APIs, Web Scraping, Claude Code, Cursor, Docker</p>
+
+---
 
 <details>
 <summary><h2>Consultant / Internship Projects</h2></summary>
@@ -118,21 +138,24 @@ As a Sales Analytics Intern at Fidelity Investments in Covington, KY, I worked o
 
 <h3>Pokemon Web Scraping</h3>
 
-<p>I built a custom web scraper to collect real-time Pokémon card pricing data from PriceCharting, a popular resource for trading card values. The goal was to create a reliable dataset tracking ungraded prices alongside PSA 9 and PSA 10 values across multiple sets, enabling better decision-making when buying, selling, or grading cards. This project originated from my interest in the Pokémon card market and the scarcity of free, structured datasets for current prices. By scraping set pages, I was able to flag potential value opportunities - for example, cards with large gaps between ungraded and graded prices, which may indicate strong candidates for PSA submissions. It also tracks weekly and monthly price changes, helping identify buying opportunities or spot cards with early upward trends. The dataset can now be refreshed daily, capturing new price data automatically, and two visualizations that update live with the filters, enabling ongoing market analysis.</p>
+<p>I rebuilt my original Pokémon price-tracking project into a data engineering and analytics application for collecting and analyzing Pokémon card and sealed product pricing data over time. I designed a PostgreSQL database in Supabase, integrated an external pricing API, and built Python pipelines to organize and maintain the data. The project now supports automated daily updates, historical price tracking, and Tableau dashboards for analyzing market trends.</p>
 
 <p><strong>Key Tasks:</strong></p>
 
 <ul>
-<li>Design and implement a Python-based web scraper using BeautifulSoup and Requests</li>
-<li>Navigate across set pages to extract card names, condition-based prices, and set identifiers</li>
-<li>Engineer new features, such as price gaps and trend tracking, to identify undervalued or high-growth cards</li>
-<li>Develop an advanced Streamlit app with dynamic filtering, export-to-CSV functionality with daily automated updates, and an integrated GenAI chatbot for interactive data exploration</li>
+<li>Design and maintain a relational PostgreSQL database for sets, cards, sealed products, and historical pricing data</li>
+<li>Integrate an external pricing API and work with API endpoints, identifiers, response structures, rate limits, and inconsistent data</li>
+<li>Build Python data pipelines to load, clean, validate, and update pricing data in Supabase</li>
+<li>Use SQL to investigate data quality, analyze historical pricing, and create views for Tableau</li>
+<li>Automate daily data collection and database updates using GitHub Actions</li>
+<li>Develop Tableau dashboards and calculated fields to analyze price changes, rankings, and market trends</li>
 </ul>
 
-<p><strong>Tools Used:</strong> Python (BeautifulSoup, Requests, Pandas), Streamlit, Generative AI, LangChain, Value Detection Logic</p>
+<p><strong>Tools Used:</strong> Python, PostgreSQL, Supabase, SQL, Pandas, API Integration, GitHub Actions, Tableau</p>
 
-<p><strong>Links:</strong> <a href="https://pokemoncards-exploration.streamlit.app/">View Streamlit App</a> | <a href="https://github.com/Logan142414/PokemonCardsApp">View Project on GitHub</a> | <a href="https://medium.com/@logan.laszewski14/learning-web-scraping-by-tracking-pok%C3%A9mon-card-prices-30d97a8f5eeb">Medium Article (Part 1: Learning Web Scraping)</a> | <a href="https://medium.com/@logan.laszewski14/pok%C3%A9mon-price-tracker-part-2-historical-tracking-cloud-storage-and-interactive-analysis-af61567ee335">Medium Article (Part 2: Historical Tracking & Analysis)</a></p>
-
+<p><strong>Links:</strong> 
+<a href="https://github.com/Logan142414/PokemonCardsAppV2">View Project on GitHub</a>
+</p>
 
 <hr>
 

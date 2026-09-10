@@ -1,13 +1,15 @@
 # Software & Data Science Portfolio
 
 ### Connect
-[Email](mailto:logan.laszewski@comcast.net)  [LinkedIn](https://www.linkedin.com/in/logan-laszewski/) [Medium](https://medium.com/@logan.laszewski14) [Resume](https://tinyurl.com/May2026Resume)
+[Email](mailto:logan.laszewski@comcast.net)  [LinkedIn](https://www.linkedin.com/in/logan-laszewski/) [Medium](https://medium.com/@logan.laszewski14) [Resume](https://tinyurl.com/LoganL-Sept-2026-Resume)
 
 ### Introduction
 
 My name is Logan Laszewski, and I'm an Associate Software Developer at mLogica. I graduated from Elon University in 2025 with a double major in Data Analytics and Applied Mathematics.
 
-What sets me apart is my ability to bridge software engineering and data science. At mLogica, I build AI agent systems and MCP Servers on Amazon Bedrock AgentCore in partnership with AWS and have deployed LLM pipelines within internal applications - giving me experience at the cutting edge of AI development. This complements a strong foundation in analytics built through internships, a consulting project with Labcorp, and academic work in machine learning with the nonprofit HWH. Backed by a double major in Data Analytics and Applied Mathematics, I bring both technical depth and analytical thinking to every problem.
+My work combines software development, data analytics, and applied mathematics, with a growing focus on AI and data driven applications. At mLogica, I have worked with AWS, AI/LLM integration and MCP servers, while my academic, internship, and personal projects have given me experience with statistical modeling, machine learning, databases, APIs, and data visualization. I use this portfolio to showcase projects where I apply these skills to real world problems and explore areas that interest me, from AI and data engineering to sports analytics and market data.
+
+My background combines data analytics, statistical modeling, and software development, with a particular interest in applying data and probability to sports. At mLogica, I have worked with AWS, AI/LLM integration, MCP servers, and software development, while my academic and personal projects have given me experience building predictive models, working with sports data, analyzing market trends. I use this portfolio to showcase my technical background and projects as I continue developing toward a career in sports analytics, sports data science, and related quantitative roles.
 
 ### Technical Proficiency
 
@@ -17,7 +19,7 @@ What sets me apart is my ability to bridge software engineering and data science
 - **Modeling:** Random Forest, XGBoost, Neural Networks, Deep Learning, Hyperparameter Tuning, Model Evaluation (AUC, Precision/Recall, F1-
 - Score, Cross-Validation)
 - **AI & Agent Development:** LLMs, AI Agents, Multi-Agent Systems, MCP Servers, FastAPI, FastMCP, Prompt Engineering
-- **Cloud & Tools:** AWS (Bedrock, AgentCore, ECR, S3, EC2, IAM/OAuth), Docker, GitHub, VSCode, Postman
+- **Cloud & Tools:** AWS (Bedrock AgentCore, ECR, S3, EC2, IAM/OAuth, CloudWatch, Transform), Docker, GitHub, VSCode, Postman
 - **Mathematical Research:** Braid groups, Permutations, Abstract Algebra
 
 ---
@@ -29,10 +31,9 @@ What sets me apart is my ability to bridge software engineering and data science
 
 <p>At mLogica, a database migration company, I have worked on integrating our STAR*M database schema conversion tooling into AWS Transform, giving AWS customers a way to access our migration capabilities without downloading and running the software locally. I initially developed the MCP server and orchestrator/subagent architecture using AWS's provided SDKs, and helped transition the workflow toward API/tool execution, and AWS Job Plans that guide users through the migration process. Separately, I contributed AI functionality to an internal sales application that summarizes prospective client documents, generates structured outputs, and tracks estimated token usage and processing time before running summary. </p>
 
+<p><strong>Tools Used:</strong> Python, APIs, Docker, AWS (Transform, S3, CloudWatch, EC2, ECS, Bedrock AgentCore), AI Integration </p>
 
-</details>
-
----
+<hr>
 
 <h3>TooSoon</h3>
 
@@ -53,6 +54,8 @@ What sets me apart is my ability to bridge software engineering and data science
 </ul>
 
 <p><strong>Tools Used:</strong> Python, FastAPI, React, PostgreSQL, PostGIS, SQLAlchemy, MapLibre, APIs, Web Scraping, Claude Code, Cursor, Docker</p>
+
+</details>
 
 ---
 

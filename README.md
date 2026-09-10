@@ -9,8 +9,6 @@ My name is Logan Laszewski, and I'm an Associate Software Developer at mLogica. 
 
 My work combines software development, data analytics, and applied mathematics, with a growing focus on AI and data driven applications. At mLogica, I have worked with AWS, AI/LLM integration and MCP servers, while my academic, internship, and personal projects have given me experience with statistical modeling, machine learning, databases, APIs, and data visualization. I use this portfolio to showcase projects where I apply these skills to real world problems and explore areas that interest me, from AI and data engineering to sports analytics and market data.
 
-My background combines data analytics, statistical modeling, and software development, with a particular interest in applying data and probability to sports. At mLogica, I have worked with AWS, AI/LLM integration, MCP servers, and software development, while my academic and personal projects have given me experience building predictive models, working with sports data, analyzing market trends. I use this portfolio to showcase my technical background and projects as I continue developing toward a career in sports analytics, sports data science, and related quantitative roles.
-
 ### Technical Proficiency
 
 - **Programming Languages:** R, Python, SAS, SQL
